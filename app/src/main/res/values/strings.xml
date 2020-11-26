@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">roomDemoJava</string>
+    <string name="countries_in_asia">Countries in Asia</string>
+    <string name="this_is_an_image_of_country">this is an image of country</string>
+    <string name="heading_name">Name:</string>
+    <string name="name">Name</string>
+    <string name="heading_capital">Capital :</string>
+    <string name="heading_region">Region:</string>
+    <string name="heading_sub_region">SubRegion:</string>
+    <string name="heading_languages">Languages:</string>
+    <string name="language">language</string>
+    <string name="sub_region">sub_region</string>
+    <string name="region">region</string>
+    <string name="capital">capital</string>
+    <string name="borders">Borders</string>
+    <string name="heading_borders">Borders:</string>
+    <string name="population">Population</string>
+    <string name="heading_population">Population:</string>
+</resources>
