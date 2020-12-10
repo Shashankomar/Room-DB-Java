@@ -7,7 +7,7 @@ public class Constants {
     }
 
     public interface IEndPointConstants {
-        String RESION_ASIA = "region/asia";
+        String REGION_ASIA = "region/asia";
     }
 
     public interface IDBConstants {
